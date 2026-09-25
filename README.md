@@ -1,6 +1,6 @@
 # Hi there, I'm Doug! 👋
 
-![Banner Image](your_banner_image_url_here)
+[![Banner Image](your_banner_image_url_here)](https://camo.githubusercontent.com/d56dc36f00472d0c06908554fd729c2fe30985b3a4945ee0c1c85be71c4d42a0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f534135757733546433337146344647496c592f67697068792e676966)
 
 ## About Me 🚀
 
